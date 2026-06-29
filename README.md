@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a second‑year Computer Science student at Parul University, <br>passionate about building real‑world software projects.<br><br> Learning MERN stack, Data Structures & Algorithms, <br>and competitive programming<br> Skilled in C, C++, Java, Python, and web technologies<br>Practicing on LeetCode and Codeforces to strengthen<br> problem‑solving<br>Open to collaborations, internships, and hackathons<br>My goal is to turn ideas into impactful products while <br>growing as a developer.
+I’m a third‑year Computer Science student at Parul University, <br>passionate about building real‑world software projects.<br><br> Learning MERN stack, Data Structures & Algorithms, <br>and competitive programming<br> Skilled in C, C++, Java, Python, and web technologies<br>Practicing on LeetCode and Codeforces to strengthen<br> problem‑solving<br>Open to collaborations, internships, and hackathons<br>My goal is to turn ideas into impactful products while <br>growing as a developer.
 
 
 ## 🌐 Socials:
